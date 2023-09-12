@@ -19,7 +19,7 @@
 
 <section class="what-i-do">
     <p class="header">What I do</p>
-    <p class="desc">I have more than 10 years' experience building software for clients all over the world. Below is a quick overview of my main technical skill sets and technologies I use. Want to find out more about my experience? Check out my online resume and project portfolio.</p>
+    <p class="desc">I have more tshan 10 years' experience building software for clients all over the world. Below is a quick overview of my main technical skill sets and technologies I use. Want to find out more about my experience? Check out my online resume and project portfolio.</p>
 </section>
 </template>
 <script setup>
